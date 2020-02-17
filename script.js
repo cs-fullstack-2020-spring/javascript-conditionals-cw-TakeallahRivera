@@ -26,10 +26,10 @@ if(theNumbers = 1){
 let enterNumber = prompt("Enter a number");
 let enterAnotherNumber = prompt("Enter another number");
 
-if(enterNumber>= 18){
+if(enterNumber + enterAnotherNumber= >= 18){
     console.log("You can vote!!");
 
-} else if(age <18){
+} else if(enternumber + enterAnotherNumber= <18){
     console.log("You can not vote!");
 }
 
